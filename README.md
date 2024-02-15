@@ -1,1 +1,1 @@
-# freegamestoplay.githud.io
+# freegamestoplay.github.io
